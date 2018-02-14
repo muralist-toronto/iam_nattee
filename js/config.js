@@ -6,7 +6,7 @@ let CONFIG = {};
 // TODO: UPDATE title tags in ALL PAGES
 
 // Artist id:
-CONFIG.uid = '0oERuuvulIPviv27yBa08bdVhC23';
+CONFIG.uid = '4NZBFj9sElf5xukh44UJlj6ASCs1';
 CONFIG.baseUrl = 'https://us-central1-art-auction-2ef27.cloudfunctions.net';
 
 CONFIG.copy = {
